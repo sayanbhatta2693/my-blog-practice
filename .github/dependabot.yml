@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"       # Tells Dependabot to look at Python dependencies
+    directory: "/"                 # Root directory (where requirements.txt lives)
+    schedule:
+      interval: "daily"            # Check for updates every day
