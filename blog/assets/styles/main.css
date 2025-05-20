@@ -1,5 +1,12 @@
-/* Base styles */
-body {
-  font-family: sans-serif;
+.subscribe-button {
+  background-color: #007bff;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.subscribe-button:hover {
+  background-color: #0056b3;
 }
 
